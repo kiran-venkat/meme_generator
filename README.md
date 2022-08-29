@@ -4,7 +4,7 @@
 
 ![App Screen](./src/assets/app-screen.png)
 
-Simple project to create custom memes. [See it live](https://pd-meme-generator.netlify.app/).
+Simple project to create custom memes. [See it live](https://clinquant-cuchufli-bc3b78.netlify.app/).
 
 ### Under the hood
 
