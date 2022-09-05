@@ -16,5 +16,3 @@ Simple project to create custom memes. [See it live](https://clinquant-cuchufli-
 - HTML to Image
 
 ---
-
-Stay safe and enjoy 😉
